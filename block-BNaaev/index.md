@@ -17,3 +17,14 @@ writeCode
 ##### Note:-
 
 Use async version of bcrypt method to hash the password
+
+
+registration-system/
+├── app.js
+├── models/
+│   └── User.js
+├── views/
+│   └── register.ejs
+├── routes/
+│   └── users.js
+└── package.json
